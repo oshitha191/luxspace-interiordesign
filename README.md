@@ -41,4 +41,4 @@ A premium, responsive static website for an Interior Design Company built using 
 
 ## Live Demo
 
-(Add your Netlify URL here after deployment.)
+https://luxspace-interiordesign-by-oshitha.netlify.app/
